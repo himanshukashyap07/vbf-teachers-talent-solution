@@ -19,7 +19,7 @@ export class DatabaseNotConfiguredError extends Error {
   }
 }
 
-const DEFAULT_DB = "shikshak-setu";
+const DEFAULT_DB = "vbf-teachers-talent-solution";
 
 /**
  * Atlas copy-paste URIs usually have no database name, which makes the driver silently

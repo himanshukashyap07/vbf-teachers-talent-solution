@@ -89,7 +89,7 @@ Apple icon are generated in `app/opengraph-image.tsx` and `app/apple-icon.tsx`.
 ## Configuration you will edit most
 
 `src/config/site.ts`:
-- `name`, `tagline`, `description` — brand text (placeholder name "Shikshak Setu")
+- `name`, `tagline`, `description` — brand text (name "VBF Teachers & Talent Solution")
 - `email`, `phoneDisplay` — **TODO placeholders**
 - `candidateFeesEnabled` — read from `CANDIDATE_FEES_ENABLED` (default `false`); **keep it off** until the legal gate is cleared. Public copy switches on it (rebuild after changing); the server enforces it independently
 - `candidateRegistrationFeePaise` — 34900 (₹349), used only when the flag is on

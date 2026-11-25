@@ -1,10 +1,7 @@
-# Shikshak Setu — Teacher Recruitment Website
+# Vbf Teachers and Talent Solution — Teacher Recruitment Website
 
 Website, accounts, payments and a staff admin area for a teacher recruitment & placement agency
 in Uttar Pradesh. Built from the PRD: manual-first MVP, real digital plumbing underneath.
-
-> **"Shikshak Setu" is a placeholder name.** Change it in `src/config/site.ts` together with the
-> email and phone (both marked `TODO`).
 
 ## Stack
 
@@ -42,7 +39,7 @@ Scripts: `npm run build`, `npm start`, `npm run lint`, `npm run typecheck`.
 4. **Database → Connect → Drivers** → copy the `mongodb+srv://…` string.
 5. Put it in `.env` as `MONGODB_URI`, replacing `<password>`. **URL-encode special characters** in the
    password (`@`→`%40`, `#`→`%23`, `/`→`%2F`, `:`→`%3A`).
-6. The database name comes from `MONGODB_DB` (default `shikshak-setu`). An explicit `MONGODB_DB`
+6. The database name comes from `MONGODB_DB` (default `vbf-teachers-talent-solution`). An explicit `MONGODB_DB`
    wins over a name inside the URI. Collections and indexes are created automatically on first use.
 7. Restart `npm run dev` and check `/api/health`.
 

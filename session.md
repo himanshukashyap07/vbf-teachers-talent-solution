@@ -1,4 +1,4 @@
-# Session notes: Shikshak Setu (teacher recruitment website)
+# Session notes: VBF Teachers & Talent Solution (teacher recruitment website)
 
 Saved 2026-11-05 so work can resume later. Read this first, then `README.md`, `backend.md`, `frontend.md`.
 
@@ -13,7 +13,7 @@ until a UP lawyer approves.** The server enforces this with `CANDIDATE_FEES_ENAB
 Competitor research found Indian platforms advertise "free for teachers" or "free for schools", so reconsider the Rs 349 fee.
 
 ## 2. What exists (all built and tested)
-Project folder: `C:\Users\Rohit Laumas\WebComponents\shikshak-setu`
+Project folder: `/workspaces/vbf-teachers-talent-solution`
 
 | Area | Details |
 |---|---|
@@ -32,7 +32,7 @@ Project folder: `C:\Users\Rohit Laumas\WebComponents\shikshak-setu`
 Other pages: dashboard (school: post vacancy; teacher: profile + status; both: payments), onboarding, forgot/reset/verify email.
 
 ## 3. Placeholders and things you must do yourself
-- Brand name **"Shikshak Setu" is a placeholder**; email/phone in `src/config/site.ts` are placeholders.
+- Brand name is **"VBF Teachers & Talent Solution"**; email/phone details live in `src/config/business.json`.
 - Fill `.env` (template exists, secrets not stored here): `MONGODB_URI` (Atlas), `NEXTAUTH_SECRET` (already generated),
   `NEXTAUTH_URL`, Razorpay keys + webhook secret, SMTP settings, `ADMIN_EMAILS`, Google/LinkedIn keys,
   `NEXT_PUBLIC_WHATSAPP_NUMBER`, and **`NEXT_PUBLIC_SITE_URL` = your real https domain** (canonical/sitemap/share images).
@@ -99,7 +99,7 @@ clear school-fee page, lawyer-reviewed legal pages incl. refund/cancellation pol
 - Claude's own memory of this project: `C:\Users\Rohit Laumas\.claude\projects\C--Users-Rohit-Laumas-WebComponents\memory\project_shikshak_setu_site.md`
 
 ## 9. To resume in a new Claude session
-Say: "Read `shikshak-setu/session.md`, then continue with <the next step you want>" (for example, the school review portal).
+Say: "Read `vbf-teachers-talent-solution/session.md`, then continue with <the next step you want>" (for example, the school review portal).
 
 ## 7. Update 2026-11-09: rebrand, fees and legal documents (owner's decisions)
 - Agency is **VBF Teachers & Talent Solution** (sole proprietorship, owner Saraswati, Loni, Ghaziabad, UP). All details live in `src/config/business.json` (placeholders: phone, WhatsApp, website, Udyam no., grievance contact).

@@ -1,0 +1,257 @@
+{
+  "slug": "terms",
+  "title": {
+    "en": "Terms and Conditions",
+    "hi": "नियम एवं शर्तें"
+  },
+  "description": {
+    "en": "The terms on which {{agency}} provides teacher recruitment and placement services to teachers and schools in Uttar Pradesh.",
+    "hi": "वे शर्तें जिन पर {{agency}} उत्तर प्रदेश के शिक्षकों और स्कूलों को भर्ती और प्लेसमेंट सेवाएँ देती है।"
+  },
+  "updated": {
+    "en": "Last updated: 9 November 2026",
+    "hi": "अंतिम अपडेट: 9 नवंबर 2026"
+  },
+  "note": {
+    "en": "This document is provided in English and Hindi. If the two differ, the English version applies.",
+    "hi": "यह दस्तावेज़ अंग्रेज़ी और हिंदी में दिया गया है। दोनों में अंतर होने पर अंग्रेज़ी संस्करण मान्य होगा।"
+  },
+  "sections": [
+    {
+      "h": {
+        "en": "1. About us",
+        "hi": "1. हमारे बारे में"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "{{agency}} is a {{legalForm}} owned by {{owner}}, with its address at {{address}}. Udyam Registration No.: {{udyam}}. We are a teacher recruitment and placement service. We introduce teachers to schools. We are not the employer of any teacher, and the hiring decision is always the school's.",
+            "hi": "{{agency}} एक {{legalFormHi}} है, जिसकी स्वामी {{owner}} हैं और जिसका पता {{address}} है। उद्यम पंजीकरण संख्या: {{udyam}}। हम एक शिक्षक भर्ती और प्लेसमेंट सेवा हैं। हम शिक्षकों को स्कूलों से मिलवाते हैं। हम किसी भी शिक्षक के नियोक्ता नहीं हैं, और नियुक्ति का निर्णय हमेशा स्कूल का होता है।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "2. Meanings",
+        "hi": "2. शब्दों के अर्थ"
+      },
+      "blocks": [
+        {
+          "ul": {
+            "en": [
+              "\"Candidate\" or \"Teacher\" means a person who registers with us to find a teaching job.",
+              "\"School\" means a school or educational institution that gives us its vacancies.",
+              "\"Registration Fee\" means the one-time fee of {{regFee}} paid by a Candidate.",
+              "\"Placement Fee\" means {{pct}} of the Candidate's first month's in-hand salary, payable only after a successful placement.",
+              "\"In-hand salary\" means the amount actually credited to the Candidate for the month, after all deductions.",
+              "\"Placement\" means a Candidate is selected by a School that we introduced them to, joins that School and receives the first salary."
+            ],
+            "hi": [
+              "\"उम्मीदवार\" या \"शिक्षक\" का अर्थ वह व्यक्ति है जो शिक्षण की नौकरी पाने के लिए हमारे पास पंजीकरण करता है।",
+              "\"स्कूल\" का अर्थ वह स्कूल या शैक्षणिक संस्था है जो हमें अपनी रिक्तियाँ देती है।",
+              "\"पंजीकरण शुल्क\" का अर्थ उम्मीदवार द्वारा दिया जाने वाला {{regFee}} का एकबारगी शुल्क है।",
+              "\"प्लेसमेंट शुल्क\" का अर्थ उम्मीदवार की पहले महीने की इन-हैंड सैलरी का {{pct}} है, जो केवल सफल प्लेसमेंट के बाद देय है।",
+              "\"इन-हैंड सैलरी\" का अर्थ सभी कटौतियों के बाद उस महीने के लिए उम्मीदवार के खाते में वास्तव में जमा हुई राशि है।",
+              "\"प्लेसमेंट\" का अर्थ है कि हमारे द्वारा मिलवाए गए स्कूल में उम्मीदवार का चयन हो, वह उस स्कूल में जॉइन करे और पहली सैलरी प्राप्त करे।"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "3. Accounts and eligibility",
+        "hi": "3. खाता और पात्रता"
+      },
+      "blocks": [
+        {
+          "ul": {
+            "en": [
+              "You must be at least 18 years old.",
+              "Give accurate information and keep it up to date.",
+              "Keep your password confidential. You are responsible for activity on your account.",
+              "We may refuse, suspend or close an account that breaks these terms or our Rules and Regulations."
+            ],
+            "hi": [
+              "आपकी आयु कम से कम 18 वर्ष होनी चाहिए।",
+              "सही जानकारी दें और उसे अद्यतन रखें।",
+              "अपना पासवर्ड गोपनीय रखें। आपके खाते की गतिविधि की ज़िम्मेदारी आपकी है।",
+              "जो खाता इन शर्तों या हमारे नियमों और विनियमों का उल्लंघन करे, हम उसे अस्वीकार, निलंबित या बंद कर सकते हैं।"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "4. Our services",
+        "hi": "4. हमारी सेवाएँ"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "For teachers: after you share your resume and pay the Registration Fee, we screen your resume. Our placement service then includes preparing a resume summary report, conducting an interview (virtual or in person), tying up with schools, and finding a suitable school for you. We work only in Uttar Pradesh.",
+            "hi": "शिक्षकों के लिए: आपके रिज़्यूमे साझा करने और पंजीकरण शुल्क देने के बाद हम आपके रिज़्यूमे की स्क्रीनिंग करते हैं। हमारी प्लेसमेंट सेवा में रिज़्यूमे की सारांश रिपोर्ट तैयार करना, इंटरव्यू लेना (वर्चुअल या आमने-सामने), स्कूलों से संपर्क/टाई-अप करना और आपके लिए उपयुक्त स्कूल खोजना शामिल है। हम केवल उत्तर प्रदेश में काम करते हैं।"
+          }
+        },
+        {
+          "p": {
+            "en": "For schools: we collect your requirements, introduce suitable candidates and share their resume and summary report. We charge schools nothing.",
+            "hi": "स्कूलों के लिए: हम आपकी आवश्यकताएँ लेते हैं, उपयुक्त उम्मीदवार मिलवाते हैं और उनका रिज़्यूमे व सारांश रिपोर्ट भेजते हैं। हम स्कूलों से कोई शुल्क नहीं लेते।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "5. Fees",
+        "hi": "5. शुल्क"
+      },
+      "blocks": [
+        {
+          "ul": {
+            "en": [
+              "Candidates pay a one-time Registration Fee of {{regFee}}, at the start after sharing the resume. It is non-refundable.",
+              "Candidates pay the Placement Fee of {{pct}} of the first month's in-hand salary only when successfully placed, within {{dueDays}} days after the first salary is credited.",
+              "Schools pay nothing.",
+              "Full details are in our Payment, Fee and Refund Policy, which forms part of these terms."
+            ],
+            "hi": [
+              "उम्मीदवार रिज़्यूमे साझा करने के बाद शुरुआत में {{regFee}} का एकबारगी पंजीकरण शुल्क देते हैं। यह वापस नहीं होता।",
+              "उम्मीदवार प्लेसमेंट शुल्क, यानी पहले महीने की इन-हैंड सैलरी का {{pct}}, केवल सफल प्लेसमेंट होने पर, पहली सैलरी जमा होने के {{dueDays}} दिनों के भीतर देते हैं।",
+              "स्कूल कुछ भी नहीं देते।",
+              "पूरा विवरण हमारी भुगतान, शुल्क और रिफंड नीति में है, जो इन शर्तों का हिस्सा है।"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "6. No guarantee",
+        "hi": "6. कोई गारंटी नहीं"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "We do not guarantee that any teacher will be shortlisted, selected or paid a particular salary, or that any school will find a suitable candidate within a particular time. Selection is the school's decision.",
+            "hi": "हम इस बात की गारंटी नहीं देते कि किसी शिक्षक का शॉर्टलिस्ट या चयन होगा, या उसे कोई विशेष सैलरी मिलेगी, या किसी स्कूल को तय समय में उपयुक्त उम्मीदवार मिल जाएगा। चयन स्कूल का निर्णय है।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "7. Consent to share your profile",
+        "hi": "7. प्रोफ़ाइल साझा करने की सहमति"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "We share a teacher's resume and summary report only with schools the teacher has agreed to, as recorded in the Candidate Agreement and the consent choices made on the website.",
+            "hi": "हम किसी शिक्षक का रिज़्यूमे और सारांश रिपोर्ट केवल उन्हीं स्कूलों को देते हैं जिनके लिए शिक्षक ने सहमति दी है, जैसा कि उम्मीदवार समझौते और वेबसाइट पर दिए गए सहमति विकल्पों में दर्ज है।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "8. Information from schools",
+        "hi": "8. स्कूलों से जानकारी"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "To work out the Placement Fee and its due date, we ask the school for the candidate's salary and salary payment date. By registering, the candidate allows us to do this. Schools must give accurate information.",
+            "hi": "प्लेसमेंट शुल्क और उसकी देय तिथि तय करने के लिए हम स्कूल से उम्मीदवार की सैलरी और सैलरी भुगतान की तारीख पूछते हैं। पंजीकरण करके उम्मीदवार हमें ऐसा करने की अनुमति देता है। स्कूलों को सही जानकारी देनी होगी।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "9. Website use and ownership",
+        "hi": "9. वेबसाइट का उपयोग और स्वामित्व"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "The website's design, text and logo belong to the Agency. Do not copy them without our written permission. Do not misuse the website, try to access other people's accounts or data, or send spam or unlawful content.",
+            "hi": "वेबसाइट का डिज़ाइन, पाठ और लोगो एजेंसी के हैं। हमारी लिखित अनुमति के बिना इन्हें कॉपी न करें। वेबसाइट का दुरुपयोग न करें, दूसरों के खातों या डेटा तक पहुँचने की कोशिश न करें, और स्पैम या गैरकानूनी सामग्री न भेजें।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "10. Limit of our responsibility",
+        "hi": "10. हमारी ज़िम्मेदारी की सीमा"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "We are not responsible for a school's hiring decision, a school's conduct, or the terms a school offers. To the extent the law allows, our total responsibility to any candidate is limited to the fees that candidate has paid to us. Nothing here removes any right you have under Indian law.",
+            "hi": "हम किसी स्कूल के चयन निर्णय, स्कूल के आचरण या स्कूल द्वारा दी गई शर्तों के लिए ज़िम्मेदार नहीं हैं। कानून जितनी अनुमति देता है, किसी भी उम्मीदवार के प्रति हमारी कुल ज़िम्मेदारी उसके द्वारा हमें दिए गए शुल्क तक सीमित है। यहाँ कुछ भी भारतीय कानून के तहत आपके किसी अधिकार को समाप्त नहीं करता।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "11. Suspension and ending",
+        "hi": "11. निलंबन और समाप्ति"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "We may suspend or close an account that breaks these terms. You may stop using our services at any time. Ending your account does not cancel a fee that is already due.",
+            "hi": "जो खाता इन शर्तों का उल्लंघन करे, हम उसे निलंबित या बंद कर सकते हैं। आप किसी भी समय हमारी सेवाओं का उपयोग बंद कर सकते हैं। खाता बंद करने से पहले से देय शुल्क रद्द नहीं होता।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "12. Governing law and courts",
+        "hi": "12. लागू कानून और न्यायालय"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "These terms are governed by the laws of India. If a dispute arises, please first write to our Grievance Officer so we can try to resolve it. Otherwise, the courts at {{city}}, Uttar Pradesh have jurisdiction.",
+            "hi": "ये शर्तें भारत के कानूनों के अधीन हैं। कोई विवाद होने पर कृपया पहले हमारे शिकायत अधिकारी को लिखें ताकि हम उसे सुलझाने का प्रयास कर सकें। अन्यथा {{city}}, उत्तर प्रदेश के न्यायालयों का क्षेत्राधिकार होगा।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "13. Changes to these terms",
+        "hi": "13. शर्तों में बदलाव"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "We may update these terms and will post the new version on this page with its date.",
+            "hi": "हम इन शर्तों को अपडेट कर सकते हैं और नई तारीख के साथ नया संस्करण इसी पृष्ठ पर डालेंगे।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "14. Contact",
+        "hi": "14. संपर्क"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "{{agency}}, {{address}}. Email: {{email}}. Phone: {{phone}}. Grievance Officer: {{grievanceOfficer}} ({{grievanceContact}}).",
+            "hi": "{{agency}}, {{address}}। ईमेल: {{email}}। फ़ोन: {{phone}}। शिकायत अधिकारी: {{grievanceOfficer}} ({{grievanceContact}})।"
+          }
+        }
+      ]
+    }
+  ]
+}

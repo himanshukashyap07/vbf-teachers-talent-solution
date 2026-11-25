@@ -1,0 +1,261 @@
+{
+  "slug": "privacy",
+  "title": {
+    "en": "Privacy Policy",
+    "hi": "गोपनीयता नीति"
+  },
+  "description": {
+    "en": "How {{agency}} collects, uses, stores and shares personal information of teachers and schools, and your rights over it.",
+    "hi": "{{agency}} शिक्षकों और स्कूलों की व्यक्तिगत जानकारी कैसे एकत्र, उपयोग, सुरक्षित और साझा करती है, और उस पर आपके अधिकार।"
+  },
+  "updated": {
+    "en": "Last updated: 9 November 2026",
+    "hi": "अंतिम अपडेट: 9 नवंबर 2026"
+  },
+  "note": {
+    "en": "This document is provided in English and Hindi. If the two differ, the English version applies.",
+    "hi": "यह दस्तावेज़ अंग्रेज़ी और हिंदी में दिया गया है। दोनों में अंतर होने पर अंग्रेज़ी संस्करण मान्य होगा।"
+  },
+  "sections": [
+    {
+      "h": {
+        "en": "1. Who we are",
+        "hi": "1. हम कौन हैं"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "{{agency}} ({{address}}) decides why and how your personal information is used. We follow the Digital Personal Data Protection Act, 2023 and other Indian laws that apply.",
+            "hi": "{{agency}} ({{address}}) तय करती है कि आपकी व्यक्तिगत जानकारी का उपयोग क्यों और कैसे होगा। हम डिजिटल व्यक्तिगत डेटा संरक्षण अधिनियम, 2023 तथा लागू अन्य भारतीय कानूनों का पालन करते हैं।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "2. What we collect",
+        "hi": "2. हम क्या जानकारी लेते हैं"
+      },
+      "blocks": [
+        {
+          "ul": {
+            "en": [
+              "Teachers: name, email, mobile number, address or district, qualifications, subjects, experience, expected salary, resume and documents you upload, interview notes and summary report, your signed agreement and consent choices.",
+              "Schools: school name, board, district, contact person's name, role, email and mobile number, vacancy details, and the salary and salary payment date of a candidate who is hired.",
+              "Everyone: messages you send us, and basic technical information needed to keep the website secure. If you sign in with Google or LinkedIn we receive your name, email address and profile picture from that service.",
+              "Payments: the payment gateway (Razorpay) tells us whether a payment succeeded. We do not store your card, UPI PIN or net-banking details."
+            ],
+            "hi": [
+              "शिक्षक: नाम, ईमेल, मोबाइल नंबर, पता या ज़िला, योग्यता, विषय, अनुभव, अपेक्षित सैलरी, आपके अपलोड किए रिज़्यूमे और दस्तावेज़, इंटरव्यू के नोट्स और सारांश रिपोर्ट, आपका हस्ताक्षरित समझौता और सहमति विकल्प।",
+              "स्कूल: स्कूल का नाम, बोर्ड, ज़िला, संपर्क व्यक्ति का नाम, पद, ईमेल और मोबाइल नंबर, रिक्ति का विवरण, और नियुक्त उम्मीदवार की सैलरी तथा सैलरी भुगतान की तारीख।",
+              "सभी: आपके भेजे संदेश, और वेबसाइट को सुरक्षित रखने के लिए ज़रूरी बुनियादी तकनीकी जानकारी। Google या LinkedIn से साइन-इन करने पर हमें उस सेवा से आपका नाम, ईमेल पता और प्रोफ़ाइल फ़ोटो मिलती है।",
+              "भुगतान: पेमेंट गेटवे (Razorpay) हमें बताता है कि भुगतान सफल हुआ या नहीं। हम आपका कार्ड, UPI PIN या नेट-बैंकिंग विवरण संग्रहीत नहीं करते।"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "3. Why we use it",
+        "hi": "3. हम इसका उपयोग क्यों करते हैं"
+      },
+      "blocks": [
+        {
+          "ul": {
+            "en": [
+              "To create and manage your account and screen your resume.",
+              "To match teachers with vacancies and to prepare the summary report.",
+              "To share a teacher's resume and summary with a school, only with that teacher's consent.",
+              "To contact you about vacancies, interviews, outcomes and payments.",
+              "To work out and collect the Placement Fee, by confirming salary and pay date with the school.",
+              "To keep records, prevent misuse and meet legal duties."
+            ],
+            "hi": [
+              "आपका खाता बनाने और सँभालने तथा रिज़्यूमे की स्क्रीनिंग के लिए।",
+              "शिक्षकों को रिक्तियों से जोड़ने और सारांश रिपोर्ट तैयार करने के लिए।",
+              "शिक्षक का रिज़्यूमे और सारांश किसी स्कूल को देने के लिए, केवल उस शिक्षक की सहमति से।",
+              "रिक्तियों, इंटरव्यू, परिणाम और भुगतान के बारे में आपसे संपर्क करने के लिए।",
+              "स्कूल से सैलरी और भुगतान की तारीख की पुष्टि करके प्लेसमेंट शुल्क तय करने और वसूलने के लिए।",
+              "रिकॉर्ड रखने, दुरुपयोग रोकने और कानूनी ज़िम्मेदारियाँ पूरी करने के लिए।"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "4. Sharing with schools",
+        "hi": "4. स्कूलों के साथ साझा करना"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "We share a teacher's resume and summary report only with schools the teacher has agreed to. You may withdraw consent for future sharing at any time by writing to us. We cannot take back information a school has already received.",
+            "hi": "हम शिक्षक का रिज़्यूमे और सारांश रिपोर्ट केवल उन्हीं स्कूलों के साथ साझा करते हैं जिनके लिए शिक्षक ने सहमति दी है। आप हमें लिखकर भविष्य में साझा करने की सहमति कभी भी वापस ले सकते हैं। जो जानकारी स्कूल को पहले ही मिल चुकी है, उसे हम वापस नहीं ले सकते।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "5. Who else may see it",
+        "hi": "5. और कौन देख सकता है"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "Only service providers that help us run the service (for example website hosting, database, email and payment gateway) and authorities where the law requires it. We do not sell personal information and we do not post resumes publicly. We do not share your information with anyone else without your permission.",
+            "hi": "केवल वे सेवा प्रदाता जो सेवा चलाने में हमारी मदद करते हैं (जैसे वेबसाइट होस्टिंग, डेटाबेस, ईमेल और पेमेंट गेटवे) और जहाँ कानून माँगे वहाँ अधिकारी। हम व्यक्तिगत जानकारी बेचते नहीं हैं और रिज़्यूमे सार्वजनिक रूप से नहीं डालते। आपकी अनुमति के बिना हम आपकी जानकारी किसी और को नहीं देते।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "6. Interviews",
+        "hi": "6. इंटरव्यू"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "Interviews are taken by our team, virtually or in person. Our team prepares the summary report. No software interviews you or decides whom to shortlist.",
+            "hi": "इंटरव्यू हमारी टीम द्वारा, वर्चुअल या आमने-सामने, लिया जाता है। सारांश रिपोर्ट हमारी टीम तैयार करती है। कोई सॉफ़्टवेयर आपका इंटरव्यू नहीं लेता और न ही यह तय करता है कि किसे शॉर्टलिस्ट करना है।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "7. Optional: improving our AI model",
+        "hi": "7. वैकल्पिक: हमारे AI मॉडल को बेहतर बनाना"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "We may want to use teachers' data to train or improve the Agency's own AI model. We will do this only if you give a separate, optional consent (a separate tick box), which is not a condition for using our services. You can say no and still use every service, and you can withdraw this consent later by writing to us.",
+            "hi": "हम शिक्षकों के डेटा का उपयोग एजेंसी के अपने AI मॉडल को प्रशिक्षित या बेहतर बनाने में करना चाह सकते हैं। यह हम केवल तभी करेंगे जब आप अलग, वैकल्पिक सहमति (अलग टिक बॉक्स) देंगे; यह हमारी सेवाओं के उपयोग की शर्त नहीं है। आप मना करके भी सभी सेवाएँ ले सकते हैं, और बाद में हमें लिखकर यह सहमति वापस ले सकते हैं।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "8. How long we keep it",
+        "hi": "8. हम इसे कितने समय रखते हैं"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "We keep your information securely for as long as your account is active and afterwards for as long as we need it to provide the service, keep records and meet legal duties. When you ask us to delete your information we will do so, except for records that the law requires us to keep, such as payment records.",
+            "hi": "हम आपकी जानकारी को तब तक सुरक्षित रखते हैं जब तक आपका खाता सक्रिय है, और उसके बाद भी तब तक जब तक सेवा देने, रिकॉर्ड रखने और कानूनी ज़िम्मेदारियों के लिए आवश्यक हो। आप जानकारी हटाने को कहेंगे तो हम हटा देंगे, सिवाय उन रिकॉर्ड के जिन्हें कानून के अनुसार रखना ज़रूरी है, जैसे भुगतान रिकॉर्ड।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "9. Your rights",
+        "hi": "9. आपके अधिकार"
+      },
+      "blocks": [
+        {
+          "ul": {
+            "en": [
+              "Ask to see the information we hold about you.",
+              "Ask us to correct or update it.",
+              "Ask us to delete it.",
+              "Withdraw consent, including consent to share your profile with schools or to use your data for AI improvement.",
+              "Nominate another person to exercise your rights if you die or cannot act.",
+              "Make a complaint to us, and if you are not satisfied, to the Data Protection Board of India."
+            ],
+            "hi": [
+              "हमारे पास आपकी जो जानकारी है, उसे देखने का अनुरोध करें।",
+              "उसे सुधारने या अपडेट करने को कहें।",
+              "उसे हटाने को कहें।",
+              "सहमति वापस लें, जिसमें स्कूलों को प्रोफ़ाइल साझा करने या AI सुधार के लिए डेटा उपयोग की सहमति शामिल है।",
+              "मृत्यु या असमर्थता की स्थिति में अपने अधिकारों के उपयोग के लिए किसी अन्य व्यक्ति को नामित करें।",
+              "हमें शिकायत करें, और संतुष्ट न होने पर भारतीय डेटा संरक्षण बोर्ड से शिकायत करें।"
+            ]
+          }
+        },
+        {
+          "p": {
+            "en": "To use these rights, write to {{email}}.",
+            "hi": "इन अधिकारों के उपयोग के लिए {{email}} पर लिखें।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "10. Security",
+        "hi": "10. सुरक्षा"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "Passwords are stored as one-way hashes. Access to candidate and school records is limited to authorised people. No system is perfectly secure, so please use a strong, unique password.",
+            "hi": "पासवर्ड वन-वे हैश के रूप में रखे जाते हैं। उम्मीदवारों और स्कूलों के रिकॉर्ड तक पहुँच केवल अधिकृत लोगों तक सीमित है। कोई भी प्रणाली पूरी तरह सुरक्षित नहीं होती, इसलिए कृपया मज़बूत और अलग पासवर्ड रखें।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "11. Age",
+        "hi": "11. आयु"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "Our services are for people aged 18 or over. We do not knowingly collect information from children.",
+            "hi": "हमारी सेवाएँ 18 वर्ष या अधिक आयु के लोगों के लिए हैं। हम जानबूझकर बच्चों की जानकारी नहीं लेते।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "12. Cookies",
+        "hi": "12. कुकीज़"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "We use only the cookies needed for login and security. We do not use advertising cookies.",
+            "hi": "हम केवल लॉगिन और सुरक्षा के लिए ज़रूरी कुकीज़ का उपयोग करते हैं। हम विज्ञापन वाली कुकीज़ का उपयोग नहीं करते।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "13. Changes",
+        "hi": "13. बदलाव"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "If we change this policy we will post the new version here with its date.",
+            "hi": "यदि हम इस नीति में बदलाव करेंगे तो नई तारीख के साथ नया संस्करण यहीं डालेंगे।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "14. Grievance Officer and contact",
+        "hi": "14. शिकायत अधिकारी और संपर्क"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "Grievance Officer: {{grievanceOfficer}}. Email: {{email}}. Contact details: {{grievanceContact}}. Address: {{address}}.",
+            "hi": "शिकायत अधिकारी: {{grievanceOfficer}}। ईमेल: {{email}}। संपर्क विवरण: {{grievanceContact}}। पता: {{address}}।"
+          }
+        }
+      ]
+    }
+  ]
+}

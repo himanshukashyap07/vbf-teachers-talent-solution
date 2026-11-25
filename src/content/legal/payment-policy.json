@@ -1,0 +1,205 @@
+{
+  "slug": "payment-policy",
+  "title": {
+    "en": "Payment, Fee and Refund Policy",
+    "hi": "भुगतान, शुल्क और रिफंड नीति"
+  },
+  "description": {
+    "en": "What teachers pay, when they pay it, and our refund rules. Schools pay nothing.",
+    "hi": "शिक्षक क्या, कब और कितना भुगतान करते हैं, और हमारे रिफंड नियम। स्कूल कुछ नहीं देते।"
+  },
+  "updated": {
+    "en": "Last updated: 9 November 2026",
+    "hi": "अंतिम अपडेट: 9 नवंबर 2026"
+  },
+  "note": {
+    "en": "This document is provided in English and Hindi. If the two differ, the English version applies.",
+    "hi": "यह दस्तावेज़ अंग्रेज़ी और हिंदी में दिया गया है। दोनों में अंतर होने पर अंग्रेज़ी संस्करण मान्य होगा।"
+  },
+  "sections": [
+    {
+      "h": {
+        "en": "1. Summary",
+        "hi": "1. सारांश"
+      },
+      "blocks": [
+        {
+          "ul": {
+            "en": [
+              "Registration Fee: {{regFee}}, one time, paid at the start after you share your resume. Non-refundable.",
+              "Placement Fee: {{pct}} of your first month's in-hand salary. Charged only if you are successfully placed, and payable within {{dueDays}} days after you receive your first salary.",
+              "Schools: no fee at all."
+            ],
+            "hi": [
+              "पंजीकरण शुल्क: {{regFee}}, एक बार, रिज़्यूमे साझा करने के बाद शुरुआत में देय। वापस नहीं होगा।",
+              "प्लेसमेंट शुल्क: आपकी पहले महीने की इन-हैंड सैलरी का {{pct}}। केवल सफल प्लेसमेंट होने पर लिया जाएगा और पहली सैलरी मिलने के {{dueDays}} दिनों के भीतर देय है।",
+              "स्कूल: कोई शुल्क नहीं।"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "2. Registration Fee ({{regFee}})",
+        "hi": "2. पंजीकरण शुल्क ({{regFee}})"
+      },
+      "blocks": [
+        {
+          "ul": {
+            "en": [
+              "This is a one-time fee for registering and for the screening of your resume.",
+              "It is paid at the start, after you share your resume.",
+              "It is non-refundable, whether or not you are later placed.",
+              "It does not guarantee an interview, a job or any particular school.",
+              "It is not charged again if we later place you at another school."
+            ],
+            "hi": [
+              "यह पंजीकरण और आपके रिज़्यूमे की स्क्रीनिंग के लिए एकबारगी शुल्क है।",
+              "यह रिज़्यूमे साझा करने के बाद शुरुआत में देय है।",
+              "यह वापस नहीं होगा, चाहे बाद में आपका प्लेसमेंट हो या न हो।",
+              "यह इंटरव्यू, नौकरी या किसी विशेष स्कूल की गारंटी नहीं देता।",
+              "बाद में किसी और स्कूल में प्लेसमेंट होने पर यह दोबारा नहीं लिया जाएगा।"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "3. Placement Fee ({{pct}})",
+        "hi": "3. प्लेसमेंट शुल्क ({{pct}})"
+      },
+      "blocks": [
+        {
+          "ul": {
+            "en": [
+              "It covers your resume summary report, your interview, our tie-ups with schools, and finding a suitable school for you.",
+              "It is charged only when a school we introduced you to selects you, you join, and you receive your first salary. No placement means no Placement Fee.",
+              "It is {{pct}} of your first month's in-hand salary, meaning the amount actually credited to you after all deductions.",
+              "We ask the school for your salary and its salary payment date. You must also give your salary proof (offer letter, salary slip or bank credit) if we ask.",
+              "Example: if your first month's in-hand salary is {{exSalary}}, the Placement Fee is {{exFee}}.",
+              "If we place you at a different school later, the Placement Fee is charged again for that new placement, on that school's first month's in-hand salary."
+            ],
+            "hi": [
+              "इसमें आपकी रिज़्यूमे सारांश रिपोर्ट, आपका इंटरव्यू, स्कूलों के साथ हमारा टाई-अप, और आपके लिए उपयुक्त स्कूल खोजना शामिल है।",
+              "यह केवल तब लिया जाता है जब हमारे मिलवाए स्कूल में आपका चयन हो, आप जॉइन करें और आपको पहली सैलरी मिल जाए। प्लेसमेंट नहीं तो प्लेसमेंट शुल्क नहीं।",
+              "यह आपकी पहले महीने की इन-हैंड सैलरी का {{pct}} है, यानी सभी कटौतियों के बाद आपके खाते में वास्तव में जमा हुई राशि।",
+              "हम स्कूल से आपकी सैलरी और उसकी भुगतान तिथि पूछते हैं। माँगे जाने पर आपको भी सैलरी का प्रमाण (ऑफ़र लेटर, सैलरी स्लिप या बैंक क्रेडिट) देना होगा।",
+              "उदाहरण: यदि आपके पहले महीने की इन-हैंड सैलरी {{exSalary}} है तो प्लेसमेंट शुल्क {{exFee}} होगा।",
+              "यदि हम बाद में आपको किसी दूसरे स्कूल में प्लेस करते हैं तो उस नए प्लेसमेंट के लिए, उस स्कूल की पहले महीने की इन-हैंड सैलरी पर, प्लेसमेंट शुल्क फिर से लिया जाएगा।"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "4. Due date",
+        "hi": "4. देय तिथि"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "The Placement Fee must be paid within {{dueDays}} days after your first salary is credited to you.",
+            "hi": "प्लेसमेंट शुल्क आपकी पहली सैलरी आपके खाते में जमा होने के {{dueDays}} दिनों के भीतर देना होगा।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "5. How to pay",
+        "hi": "5. भुगतान कैसे करें"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "Pay online through the payment link on our website (UPI, cards or net banking, as available), or by the bank or UPI details we give you in writing from our official email. We issue a receipt for every payment. Do not pay anyone who claims to be from the Agency using any other method.",
+            "hi": "हमारी वेबसाइट के पेमेंट लिंक से ऑनलाइन (उपलब्धता अनुसार UPI, कार्ड या नेट बैंकिंग) भुगतान करें, या हमारे आधिकारिक ईमेल से लिखित रूप में दिए गए बैंक या UPI विवरण पर भुगतान करें। हर भुगतान की रसीद दी जाती है। एजेंसी का नाम लेकर किसी और तरीके से माँगने वाले को भुगतान न करें।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "6. Refund policy",
+        "hi": "6. रिफंड नीति"
+      },
+      "blocks": [
+        {
+          "ul": {
+            "en": [
+              "The Registration Fee is non-refundable.",
+              "Once the Placement Fee has been paid, it is not refunded.",
+              "If a payment is taken twice by mistake, or taken in error by a technical fault, the extra or wrong amount is refunded to the original payment method.",
+              "This policy does not take away any right you have under Indian law."
+            ],
+            "hi": [
+              "पंजीकरण शुल्क वापस नहीं होगा।",
+              "प्लेसमेंट शुल्क एक बार दे दिए जाने के बाद वापस नहीं होगा।",
+              "यदि कोई भुगतान गलती से दो बार कट जाए, या तकनीकी खराबी से गलत कटे, तो अतिरिक्त या गलत राशि मूल भुगतान माध्यम में वापस की जाएगी।",
+              "यह नीति भारतीय कानून के तहत आपके किसी अधिकार को समाप्त नहीं करती।"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "7. Schools",
+        "hi": "7. स्कूल"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "Schools are not charged any fee. No one is authorised to ask a school for money in the Agency's name.",
+            "hi": "स्कूलों से कोई शुल्क नहीं लिया जाता। एजेंसी के नाम पर किसी स्कूल से पैसे माँगने का अधिकार किसी को नहीं है।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "8. Taxes",
+        "hi": "8. कर"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "The Agency is not currently registered under GST, so no GST is added. The amounts above are the full amounts payable. If registration becomes required by law, we will tell you before any change applies.",
+            "hi": "एजेंसी वर्तमान में GST में पंजीकृत नहीं है, इसलिए GST नहीं जोड़ा जाता। ऊपर बताई राशियाँ ही देय पूरी राशियाँ हैं। यदि कानून के अनुसार पंजीकरण आवश्यक हो जाएगा तो किसी बदलाव से पहले हम आपको बताएँगे।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "9. If a fee is not paid",
+        "hi": "9. शुल्क न देने पर"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "If the Placement Fee is not paid by its due date, we may send reminders, suspend your account and recover the amount by lawful means.",
+            "hi": "यदि प्लेसमेंट शुल्क देय तिथि तक नहीं दिया गया तो हम रिमाइंडर भेज सकते हैं, आपका खाता निलंबित कर सकते हैं और कानूनी तरीकों से राशि वसूल सकते हैं।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "10. Questions",
+        "hi": "10. प्रश्न"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "Write to {{email}} or to our Grievance Officer, {{grievanceOfficer}} ({{grievanceContact}}).",
+            "hi": "{{email}} पर या हमारे शिकायत अधिकारी, {{grievanceOfficer}} ({{grievanceContact}}), को लिखें।"
+          }
+        }
+      ]
+    }
+  ]
+}

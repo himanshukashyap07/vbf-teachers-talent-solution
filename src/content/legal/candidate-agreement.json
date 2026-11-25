@@ -1,0 +1,283 @@
+{
+  "slug": "candidate-agreement",
+  "title": {
+    "en": "Candidate Placement Agreement",
+    "hi": "उम्मीदवार प्लेसमेंट समझौता"
+  },
+  "description": {
+    "en": "The agreement a teacher signs with {{agency}} before their resume is sent to schools.",
+    "hi": "वह समझौता जिस पर शिक्षक अपना रिज़्यूमे स्कूलों को भेजे जाने से पहले {{agency}} के साथ हस्ताक्षर करता है।"
+  },
+  "updated": {
+    "en": "Last updated: 9 November 2026",
+    "hi": "अंतिम अपडेट: 9 नवंबर 2026"
+  },
+  "note": {
+    "en": "This document is provided in English and Hindi. If the two differ, the English version applies.",
+    "hi": "यह दस्तावेज़ अंग्रेज़ी और हिंदी में दिया गया है। दोनों में अंतर होने पर अंग्रेज़ी संस्करण मान्य होगा।"
+  },
+  "isAgreement": true,
+  "sections": [
+    {
+      "h": {
+        "en": "Parties",
+        "hi": "पक्षकार"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "This Agreement is made between {{agency}}, a {{legalForm}} owned by {{owner}}, having its address at {{address}} (Udyam Registration No. {{udyam}}) (\"the Agency\"), and the Candidate whose details are given at the end of this Agreement (\"the Candidate\").",
+            "hi": "यह समझौता {{agency}}, जो {{owner}} की {{legalFormHi}} है और जिसका पता {{address}} है (उद्यम पंजीकरण संख्या {{udyam}}) (\"एजेंसी\"), और उस उम्मीदवार (\"उम्मीदवार\") के बीच है जिसका विवरण इस समझौते के अंत में दिया गया है।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "1. Services",
+        "hi": "1. सेवाएँ"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "The Agency will screen the Candidate's resume, prepare a resume summary report, conduct an interview (virtual or in person), tie up with schools in Uttar Pradesh and try to find a suitable school for the Candidate.",
+            "hi": "एजेंसी उम्मीदवार के रिज़्यूमे की स्क्रीनिंग करेगी, रिज़्यूमे की सारांश रिपोर्ट तैयार करेगी, इंटरव्यू (वर्चुअल या आमने-सामने) लेगी, उत्तर प्रदेश के स्कूलों से संपर्क/टाई-अप करेगी और उम्मीदवार के लिए उपयुक्त स्कूल खोजने का प्रयास करेगी।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "2. Registration Fee",
+        "hi": "2. पंजीकरण शुल्क"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "The Candidate will pay a one-time Registration Fee of {{regFee}} at the start, after sharing the resume, for registration and resume screening. The Registration Fee is non-refundable, whether or not the Candidate is placed.",
+            "hi": "उम्मीदवार रिज़्यूमे साझा करने के बाद शुरुआत में पंजीकरण और रिज़्यूमे की स्क्रीनिंग के लिए {{regFee}} का एकबारगी पंजीकरण शुल्क देगा। पंजीकरण शुल्क वापस नहीं होगा, चाहे उम्मीदवार का प्लेसमेंट हो या न हो।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "3. Placement Fee",
+        "hi": "3. प्लेसमेंट शुल्क"
+      },
+      "blocks": [
+        {
+          "ul": {
+            "en": [
+              "The Candidate will pay the Agency {{pct}} of the first month's in-hand salary (the amount actually credited after all deductions) only if the Candidate is selected by a school introduced by the Agency, joins that school and receives the first salary.",
+              "The fee is due within {{dueDays}} days after the first salary is credited to the Candidate.",
+              "The Agency may ask the school for the Candidate's salary and salary payment date. The Candidate allows this and will give salary proof (offer letter, salary slip or bank credit) when asked.",
+              "If the Candidate is not placed, no Placement Fee is payable.",
+              "If the Agency places the Candidate with another school later, the Placement Fee is payable again for that placement."
+            ],
+            "hi": [
+              "उम्मीदवार एजेंसी को पहले महीने की इन-हैंड सैलरी (सभी कटौतियों के बाद वास्तव में जमा राशि) का {{pct}} केवल तभी देगा जब एजेंसी द्वारा मिलवाए गए स्कूल में उसका चयन हो, वह उस स्कूल में जॉइन करे और पहली सैलरी प्राप्त करे।",
+              "यह शुल्क उम्मीदवार के खाते में पहली सैलरी जमा होने के {{dueDays}} दिनों के भीतर देय है।",
+              "एजेंसी स्कूल से उम्मीदवार की सैलरी और सैलरी भुगतान की तारीख पूछ सकती है। उम्मीदवार इसकी अनुमति देता है और माँगे जाने पर सैलरी का प्रमाण (ऑफ़र लेटर, सैलरी स्लिप या बैंक क्रेडिट) देगा।",
+              "यदि उम्मीदवार का प्लेसमेंट नहीं होता तो कोई प्लेसमेंट शुल्क देय नहीं है।",
+              "यदि एजेंसी बाद में उम्मीदवार को किसी अन्य स्कूल में प्लेस करती है तो उस प्लेसमेंट के लिए प्लेसमेंट शुल्क फिर से देय होगा।"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "4. Refunds",
+        "hi": "4. रिफंड"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "The Registration Fee is not refundable. A Placement Fee that has been paid is not refundable. A payment taken twice by mistake or in error by a technical fault will be refunded. This does not affect any right the Candidate has under law.",
+            "hi": "पंजीकरण शुल्क वापस नहीं होगा। दिया जा चुका प्लेसमेंट शुल्क वापस नहीं होगा। गलती से दो बार या तकनीकी खराबी से गलत कटा भुगतान वापस किया जाएगा। इससे कानून के तहत उम्मीदवार के किसी अधिकार पर असर नहीं पड़ता।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "5. No other charge",
+        "hi": "5. कोई अन्य शुल्क नहीं"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "The Agency charges the Candidate only the fees in clauses 2 and 3. The Agency charges schools nothing.",
+            "hi": "एजेंसी उम्मीदवार से केवल खंड 2 और 3 में बताए शुल्क लेती है। एजेंसी स्कूलों से कुछ नहीं लेती।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "6. Consent to share",
+        "hi": "6. साझा करने की सहमति"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "The Candidate agrees that the Agency may send the Candidate's resume and summary report to schools in Uttar Pradesh that the Agency finds suitable. The Candidate may withdraw this consent for future sharing at any time by writing to the Agency.",
+            "hi": "उम्मीदवार सहमत है कि एजेंसी उम्मीदवार का रिज़्यूमे और सारांश रिपोर्ट उत्तर प्रदेश के उन स्कूलों को भेज सकती है जिन्हें वह उपयुक्त पाती है। उम्मीदवार एजेंसी को लिखकर भविष्य में साझा करने की यह सहमति कभी भी वापस ले सकता है।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "7. Candidate's promises",
+        "hi": "7. उम्मीदवार के वादे"
+      },
+      "blocks": [
+        {
+          "ul": {
+            "en": [
+              "All information and documents given are true and genuine.",
+              "The Candidate will attend interviews at the agreed time, or tell the Agency in advance.",
+              "The Candidate will tell the Agency promptly if a school offers a job or if the Candidate joins a school introduced by the Agency.",
+              "The Candidate will not hide or understate the salary."
+            ],
+            "hi": [
+              "दी गई सभी जानकारी और दस्तावेज़ सच्चे और असली हैं।",
+              "उम्मीदवार तय समय पर इंटरव्यू देगा, या पहले एजेंसी को बताएगा।",
+              "किसी स्कूल से नौकरी का प्रस्ताव मिलने पर, या एजेंसी द्वारा मिलवाए स्कूल में जॉइन करने पर, उम्मीदवार तुरंत एजेंसी को बताएगा।",
+              "उम्मीदवार सैलरी को छुपाएगा या कम नहीं बताएगा।"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "8. No guarantee",
+        "hi": "8. कोई गारंटी नहीं"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "The Agency does not guarantee any interview, selection, job or salary. Selection is the school's decision.",
+            "hi": "एजेंसी किसी इंटरव्यू, चयन, नौकरी या सैलरी की गारंटी नहीं देती। चयन स्कूल का निर्णय है।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "9. Personal data",
+        "hi": "9. व्यक्तिगत डेटा"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "The Agency will handle the Candidate's data under its Privacy Policy. It is kept securely and shared only with the Candidate's permission. Use of the Candidate's data to train or improve the Agency's AI model is optional and requires the separate choice made below.",
+            "hi": "एजेंसी उम्मीदवार के डेटा को अपनी गोपनीयता नीति के अनुसार सँभालेगी। वह सुरक्षित रखा जाता है और केवल उम्मीदवार की अनुमति से साझा किया जाता है। उम्मीदवार के डेटा का उपयोग एजेंसी के AI मॉडल को प्रशिक्षित या बेहतर बनाने में करना वैकल्पिक है और इसके लिए नीचे दिया गया अलग विकल्प चुनना होगा।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "10. Ending the agreement",
+        "hi": "10. समझौता समाप्त करना"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "The Candidate may end this Agreement at any time by writing to the Agency. Ending it does not cancel any fee already paid or already due.",
+            "hi": "उम्मीदवार एजेंसी को लिखकर किसी भी समय यह समझौता समाप्त कर सकता है। समाप्त करने से पहले से दिया गया या पहले से देय कोई शुल्क रद्द नहीं होता।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "11. Governing law and courts",
+        "hi": "11. लागू कानून और न्यायालय"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "This Agreement is governed by the laws of India. The courts at {{city}}, Uttar Pradesh have jurisdiction. The parties will first try to resolve any dispute by writing to the Agency's Grievance Officer.",
+            "hi": "यह समझौता भारत के कानूनों के अधीन है। {{city}}, उत्तर प्रदेश के न्यायालयों का क्षेत्राधिकार होगा। पक्षकार किसी भी विवाद को पहले एजेंसी के शिकायत अधिकारी को लिखकर सुलझाने का प्रयास करेंगे।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "12. Whole agreement",
+        "hi": "12. पूरा समझौता"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "This Agreement, the Terms and Conditions, the Payment, Fee and Refund Policy and the Privacy Policy together form the whole agreement. If this Agreement and the Terms and Conditions differ, this Agreement applies.",
+            "hi": "यह समझौता, नियम एवं शर्तें, भुगतान, शुल्क और रिफंड नीति तथा गोपनीयता नीति मिलकर पूरा समझौता बनाते हैं। यदि इस समझौते और नियम एवं शर्तों में अंतर हो तो यह समझौता मान्य होगा।"
+          }
+        }
+      ]
+    }
+  ],
+  "signature": {
+    "h": {
+      "en": "Candidate details and signature",
+      "hi": "उम्मीदवार का विवरण और हस्ताक्षर"
+    },
+    "fields": [
+      {
+        "en": "Candidate's full name",
+        "hi": "उम्मीदवार का पूरा नाम"
+      },
+      {
+        "en": "Mobile number",
+        "hi": "मोबाइल नंबर"
+      },
+      {
+        "en": "Email",
+        "hi": "ईमेल"
+      },
+      {
+        "en": "Address",
+        "hi": "पता"
+      },
+      {
+        "en": "Date",
+        "hi": "दिनांक"
+      },
+      {
+        "en": "Place",
+        "hi": "स्थान"
+      }
+    ],
+    "consents": [
+      {
+        "en": "[  ] I have read and agree to this Agreement, including the Registration Fee of {{regFee}} (non-refundable) and the Placement Fee of {{pct}} of my first month's in-hand salary, payable within {{dueDays}} days after I receive my first salary.",
+        "hi": "[  ] मैंने यह समझौता पढ़ लिया है और इससे सहमत हूँ, जिसमें {{regFee}} का पंजीकरण शुल्क (वापस नहीं होगा) और मेरी पहली सैलरी मिलने के {{dueDays}} दिनों के भीतर देय, मेरे पहले महीने की इन-हैंड सैलरी का {{pct}} प्लेसमेंट शुल्क शामिल है।"
+      },
+      {
+        "en": "[  ] Optional: I agree that my data may be used to train or improve the Agency's AI model. (You may leave this unticked and still use every service.)",
+        "hi": "[  ] वैकल्पिक: मैं सहमत हूँ कि मेरे डेटा का उपयोग एजेंसी के AI मॉडल को प्रशिक्षित या बेहतर बनाने में हो सकता है। (इसे खाली छोड़कर भी आप सभी सेवाएँ ले सकते हैं।)"
+      }
+    ],
+    "signNote": {
+      "en": "Candidate's signature: [signing method to be decided]",
+      "hi": "उम्मीदवार के हस्ताक्षर: [हस्ताक्षर का तरीका बाद में तय होगा]"
+    },
+    "agencyNote": {
+      "en": "For {{agency}}: {{owner}}, Proprietor",
+      "hi": "{{agency}} की ओर से: {{owner}}, प्रोपराइटर"
+    }
+  },
+  "ownerNotes": [
+    "Have a lawyer in Uttar Pradesh review this agreement before first use.",
+    "Stamp duty: an agreement signed in Uttar Pradesh may need stamp duty; an unstamped agreement can be refused as evidence until duty and penalty are paid. Ask your lawyer about the correct amount and e-stamping.",
+    "Signing method: to be decided. Do not collect copies of Aadhaar cards from candidates; use an e-sign service that records the signing instead.",
+    "Fill the Udyam number, phone, website and grievance contact in src/config/business.json (they are placeholders now) and regenerate.",
+    "Jurisdiction is set to Ghaziabad, because that is your business address. Confirm."
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "slug": "rules",
+  "title": {
+    "en": "Rules and Regulations",
+    "hi": "नियम और विनियम"
+  },
+  "description": {
+    "en": "The rules every teacher, school and visitor must follow when using our teacher recruitment service.",
+    "hi": "हमारी शिक्षक भर्ती सेवा का उपयोग करते समय हर शिक्षक, स्कूल और विज़िटर को जिन नियमों का पालन करना होगा।"
+  },
+  "updated": {
+    "en": "Last updated: 9 November 2026",
+    "hi": "अंतिम अपडेट: 9 नवंबर 2026"
+  },
+  "note": {
+    "en": "This document is provided in English and Hindi. If the two differ, the English version applies.",
+    "hi": "यह दस्तावेज़ अंग्रेज़ी और हिंदी में दिया गया है। दोनों में अंतर होने पर अंग्रेज़ी संस्करण मान्य होगा।"
+  },
+  "sections": [
+    {
+      "h": {
+        "en": "1. Purpose and who these rules apply to",
+        "hi": "1. उद्देश्य और ये नियम किन पर लागू होते हैं"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "These Rules and Regulations apply to every teacher (candidate), school and visitor who uses the website or services of {{agency}} (\"the Agency\", \"we\", \"us\"). By registering, paying a fee or using our services, you agree to follow these rules.",
+            "hi": "ये नियम और विनियम उन सभी शिक्षकों (उम्मीदवारों), स्कूलों और विज़िटर पर लागू होते हैं जो {{agency}} (\"एजेंसी\", \"हम\") की वेबसाइट या सेवाओं का उपयोग करते हैं। पंजीकरण करके, शुल्क देकर या हमारी सेवाओं का उपयोग करके आप इन नियमों का पालन करने के लिए सहमत होते हैं।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "2. Rules for everyone",
+        "hi": "2. सभी के लिए नियम"
+      },
+      "blocks": [
+        {
+          "ul": {
+            "en": [
+              "Give true, complete and up-to-date information.",
+              "Treat everyone with respect. Abusive, threatening or discriminatory language is not allowed.",
+              "Keep your password private. You are responsible for everything done through your account.",
+              "Do not impersonate another person, school or the Agency.",
+              "Do not hack, spam, copy data from the website, or interfere with how it works.",
+              "Use the service only for lawful purposes."
+            ],
+            "hi": [
+              "सही, पूरी और ताज़ा जानकारी दें।",
+              "सभी के साथ सम्मान से पेश आएँ। अपमानजनक, धमकी भरी या भेदभावपूर्ण भाषा की अनुमति नहीं है।",
+              "अपना पासवर्ड गोपनीय रखें। आपके खाते से किए गए हर काम की ज़िम्मेदारी आपकी है।",
+              "किसी अन्य व्यक्ति, स्कूल या एजेंसी का रूप धारण न करें।",
+              "हैकिंग, स्पैम, वेबसाइट से डेटा की नक़ल या उसके कामकाज में बाधा न डालें।",
+              "सेवा का उपयोग केवल कानूनी उद्देश्यों के लिए करें।"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "3. Rules for teachers (candidates)",
+        "hi": "3. शिक्षकों (उम्मीदवारों) के लिए नियम"
+      },
+      "blocks": [
+        {
+          "ul": {
+            "en": [
+              "Share only genuine qualifications, experience, certificates and documents. Fake or altered documents will lead to removal.",
+              "Pay the one-time registration fee of {{regFee}} at the start, after sharing your resume. It is non-refundable.",
+              "Attend your interview (virtual or in person) at the agreed time. If you cannot, tell us in advance.",
+              "Your resume and summary report will be shared only with schools you have agreed to.",
+              "Tell us promptly if a school offers you a job or you join a school we introduced you to.",
+              "Pay {{pct}} of your first month's in-hand salary within {{dueDays}} days after you receive your first salary. This is charged only when you are successfully placed.",
+              "Give your salary proof (offer letter, salary slip or bank credit) if we ask. Do not hide or understate your salary.",
+              "Do not share other candidates' details or a school's confidential information."
+            ],
+            "hi": [
+              "केवल असली योग्यता, अनुभव, प्रमाणपत्र और दस्तावेज़ दें। नकली या बदले हुए दस्तावेज़ मिलने पर खाता हटाया जाएगा।",
+              "अपना रिज़्यूमे साझा करने के बाद, शुरुआत में {{regFee}} का एकबारगी पंजीकरण शुल्क दें। यह वापस नहीं होगा।",
+              "तय समय पर अपना इंटरव्यू (वर्चुअल या आमने-सामने) दें। न आ सकें तो पहले बताएँ।",
+              "आपका रिज़्यूमे और सारांश रिपोर्ट केवल उन्हीं स्कूलों को भेजी जाएगी जिनके लिए आपने सहमति दी है।",
+              "किसी स्कूल से नौकरी का प्रस्ताव मिले या हमारे बताए स्कूल में आप जॉइन करें तो हमें तुरंत बताएँ।",
+              "पहली सैलरी मिलने के {{dueDays}} दिनों के भीतर अपनी पहले महीने की इन-हैंड सैलरी का {{pct}} दें। यह शुल्क केवल सफल प्लेसमेंट होने पर ही लिया जाता है।",
+              "माँगे जाने पर सैलरी का प्रमाण (ऑफ़र लेटर, सैलरी स्लिप या बैंक क्रेडिट) दें। सैलरी छुपाएँ या कम न बताएँ।",
+              "दूसरे उम्मीदवारों की जानकारी या किसी स्कूल की गोपनीय जानकारी साझा न करें।"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "4. Rules for schools",
+        "hi": "4. स्कूलों के लिए नियम"
+      },
+      "blocks": [
+        {
+          "ul": {
+            "en": [
+              "You must be authorised to represent the school.",
+              "Post only genuine vacancies with accurate role, salary and salary payment date.",
+              "When we ask, confirm in writing (email or WhatsApp) whether a candidate was selected, when they joined, their salary and the date their first salary was paid.",
+              "Use candidate information only for hiring. Do not forward, store or misuse it.",
+              "Schools pay the Agency nothing. If anyone asks a school for money in our name, report it to us."
+            ],
+            "hi": [
+              "आपको स्कूल की ओर से बात करने का अधिकार होना चाहिए।",
+              "केवल असली रिक्तियाँ, सही पद, सही सैलरी और सैलरी भुगतान की तारीख के साथ दें।",
+              "हमारे पूछने पर लिखित रूप (ईमेल या WhatsApp) में बताएँ कि उम्मीदवार चयनित हुआ या नहीं, कब जॉइन किया, उसकी सैलरी कितनी है और पहली सैलरी किस तारीख को दी गई।",
+              "उम्मीदवार की जानकारी का उपयोग केवल भर्ती के लिए करें। उसे आगे न भेजें, न सँभालकर रखें और न ही दुरुपयोग करें।",
+              "स्कूल एजेंसी को कोई पैसा नहीं देते। हमारे नाम पर कोई स्कूल से पैसे माँगे तो हमें बताएँ।"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "5. What the Agency promises",
+        "hi": "5. एजेंसी के वादे"
+      },
+      "blocks": [
+        {
+          "ul": {
+            "en": [
+              "We do not charge schools any fee.",
+              "From teachers we charge only two things: the {{regFee}} registration fee and, after you are placed and receive your first salary, {{pct}} of your first month's in-hand salary. There are no other hidden charges.",
+              "We share your resume only with your consent.",
+              "We do not guarantee a job, and we do not post fake vacancies.",
+              "We keep your information confidential and secure.",
+              "We give you a receipt for every payment.",
+              "We work for schools and teachers in Uttar Pradesh."
+            ],
+            "hi": [
+              "हम स्कूलों से कोई शुल्क नहीं लेते।",
+              "शिक्षकों से हम केवल दो चीज़ें लेते हैं: {{regFee}} का पंजीकरण शुल्क, और प्लेसमेंट होने तथा पहली सैलरी मिलने के बाद पहले महीने की इन-हैंड सैलरी का {{pct}}। इसके अलावा कोई छिपा शुल्क नहीं है।",
+              "हम आपका रिज़्यूमे केवल आपकी सहमति से साझा करते हैं।",
+              "हम नौकरी की गारंटी नहीं देते, और नकली रिक्तियाँ नहीं डालते।",
+              "हम आपकी जानकारी गोपनीय और सुरक्षित रखते हैं।",
+              "हर भुगतान की रसीद दी जाती है।",
+              "हम उत्तर प्रदेश के स्कूलों और शिक्षकों के लिए काम करते हैं।"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "6. Not allowed",
+        "hi": "6. जो करना मना है"
+      },
+      "blocks": [
+        {
+          "ul": {
+            "en": [
+              "Fake documents, fake vacancies or false information.",
+              "Paying or taking money from anyone outside the payment methods shown on our website or official communications.",
+              "Harassment, threats or abuse of our staff, schools or other candidates.",
+              "Copying or selling data from the website.",
+              "Trying to avoid a fee that is due under the Candidate Agreement."
+            ],
+            "hi": [
+              "नकली दस्तावेज़, नकली रिक्तियाँ या झूठी जानकारी।",
+              "हमारी वेबसाइट या आधिकारिक संदेशों में बताए गए भुगतान तरीकों के बाहर किसी को पैसा देना या किसी से लेना।",
+              "हमारे स्टाफ़, स्कूलों या अन्य उम्मीदवारों को परेशान करना, धमकाना या गाली देना।",
+              "वेबसाइट से डेटा कॉपी करना या बेचना।",
+              "उम्मीदवार समझौते के तहत देय शुल्क से बचने की कोशिश करना।"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "7. What happens if rules are broken",
+        "hi": "7. नियम तोड़ने पर क्या होगा"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "We may give a warning, suspend or close your account, stop our services, or report the matter to the authorities. Fees already paid are dealt with as set out in the Payment, Fee and Refund Policy. We may also take legal action to recover fees due.",
+            "hi": "हम चेतावनी दे सकते हैं, आपका खाता निलंबित या बंद कर सकते हैं, सेवाएँ रोक सकते हैं, या मामले की जानकारी अधिकारियों को दे सकते हैं। पहले से दिए गए शुल्क का निपटारा भुगतान, शुल्क और रिफंड नीति के अनुसार होगा। देय शुल्क की वसूली के लिए हम कानूनी कार्रवाई भी कर सकते हैं।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "8. Complaints",
+        "hi": "8. शिकायत"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "If you have a complaint, write to {{grievanceOfficer}} (Grievance Officer) at {{email}}. Contact details: {{grievanceContact}}.",
+            "hi": "कोई शिकायत हो तो {{grievanceOfficer}} (शिकायत अधिकारी) को {{email}} पर लिखें। संपर्क विवरण: {{grievanceContact}}।"
+          }
+        }
+      ]
+    }
+  ]
+}

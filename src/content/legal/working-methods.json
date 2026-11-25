@@ -1,0 +1,121 @@
+{
+  "slug": "working-methods",
+  "title": {
+    "en": "How We Work (Company Working Methods)",
+    "hi": "हम कैसे काम करते हैं (कार्य-प्रणाली)"
+  },
+  "description": {
+    "en": "The step-by-step way {{agency}} works with teachers and schools, from the first call to the final payment.",
+    "hi": "{{agency}} पहले संपर्क से अंतिम भुगतान तक शिक्षकों और स्कूलों के साथ कैसे काम करती है, चरण-दर-चरण।"
+  },
+  "updated": {
+    "en": "Last updated: 9 November 2026",
+    "hi": "अंतिम अपडेट: 9 नवंबर 2026"
+  },
+  "note": {
+    "en": "This document is provided in English and Hindi. If the two differ, the English version applies.",
+    "hi": "यह दस्तावेज़ अंग्रेज़ी और हिंदी में दिया गया है। दोनों में अंतर होने पर अंग्रेज़ी संस्करण मान्य होगा।"
+  },
+  "sections": [
+    {
+      "h": {
+        "en": "1. What we do",
+        "hi": "1. हम क्या करते हैं"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "{{agency}} connects teachers with schools in Uttar Pradesh. We screen resumes, prepare a summary report, interview teachers, and introduce them to schools that need teachers. Schools pay us nothing.",
+            "hi": "{{agency}} उत्तर प्रदेश में शिक्षकों को स्कूलों से जोड़ती है। हम रिज़्यूमे की स्क्रीनिंग करते हैं, सारांश रिपोर्ट तैयार करते हैं, शिक्षकों का इंटरव्यू लेते हैं और उन्हें उन स्कूलों से मिलवाते हैं जिन्हें शिक्षक चाहिए। स्कूल हमें कुछ नहीं देते।"
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "2. Our steps",
+        "hi": "2. हमारे चरण"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "The steps below describe the order of our work.",
+            "hi": "नीचे दिए चरण हमारे काम का क्रम बताते हैं।"
+          }
+        },
+        {
+          "ul": {
+            "en": [
+              "Step 1 - School requirements: we speak to schools and note what teachers they need (subject, class level, salary and when they pay salary).",
+              "Step 2 - Teacher registers: the teacher creates an account and shares a resume.",
+              "Step 3 - Registration Fee: the teacher pays the one-time {{regFee}} registration fee (non-refundable).",
+              "Step 4 - Resume screening: we check the resume against what schools need.",
+              "Step 5 - Interview: we take an interview, virtually or in person.",
+              "Step 6 - Summary report: we prepare a summary report of the teacher's profile.",
+              "Step 7 - Candidate Agreement: the teacher reads and agrees to the Candidate Agreement and gives consent to share the profile.",
+              "Step 8 - School tie-up: we send the resume and summary report to suitable schools and coordinate with them.",
+              "Step 9 - School decision: the school selects or rejects the teacher.",
+              "Step 10 - Joining and salary: if selected, the teacher joins, and the school tells us the salary and the date the first salary is paid.",
+              "Step 11 - Placement Fee: after the first salary is credited, the teacher pays {{pct}} of the first month's in-hand salary within {{dueDays}} days. We issue a receipt.",
+              "Step 12 - If not selected: we look for other suitable schools for the teacher."
+            ],
+            "hi": [
+              "चरण 1 - स्कूल की आवश्यकता: हम स्कूलों से बात करके नोट करते हैं कि उन्हें कैसे शिक्षक चाहिए (विषय, कक्षा स्तर, सैलरी और सैलरी देने की तारीख)।",
+              "चरण 2 - शिक्षक का पंजीकरण: शिक्षक खाता बनाता है और रिज़्यूमे साझा करता है।",
+              "चरण 3 - पंजीकरण शुल्क: शिक्षक {{regFee}} का एकबारगी पंजीकरण शुल्क देता है (वापस नहीं होगा)।",
+              "चरण 4 - रिज़्यूमे स्क्रीनिंग: हम रिज़्यूमे को स्कूलों की आवश्यकता से मिलाकर जाँचते हैं।",
+              "चरण 5 - इंटरव्यू: हम वर्चुअल या आमने-सामने इंटरव्यू लेते हैं।",
+              "चरण 6 - सारांश रिपोर्ट: हम शिक्षक की प्रोफ़ाइल की सारांश रिपोर्ट तैयार करते हैं।",
+              "चरण 7 - उम्मीदवार समझौता: शिक्षक उम्मीदवार समझौता पढ़कर उससे सहमत होता है और प्रोफ़ाइल साझा करने की सहमति देता है।",
+              "चरण 8 - स्कूल से टाई-अप: हम उपयुक्त स्कूलों को रिज़्यूमे और सारांश रिपोर्ट भेजते हैं और उनके साथ तालमेल रखते हैं।",
+              "चरण 9 - स्कूल का निर्णय: स्कूल शिक्षक को चुनता है या अस्वीकार करता है।",
+              "चरण 10 - जॉइनिंग और सैलरी: चयन होने पर शिक्षक जॉइन करता है, और स्कूल हमें सैलरी तथा पहली सैलरी देने की तारीख बताता है।",
+              "चरण 11 - प्लेसमेंट शुल्क: पहली सैलरी जमा होने के बाद शिक्षक {{dueDays}} दिनों के भीतर पहले महीने की इन-हैंड सैलरी का {{pct}} देता है। हम रसीद देते हैं।",
+              "चरण 12 - चयन न होने पर: हम शिक्षक के लिए अन्य उपयुक्त स्कूल खोजते हैं।"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "3. Our principles",
+        "hi": "3. हमारे सिद्धांत"
+      },
+      "blocks": [
+        {
+          "ul": {
+            "en": [
+              "Consent first: a teacher's profile goes only to schools the teacher has agreed to.",
+              "Honesty: we do not promise jobs and we do not post fake vacancies.",
+              "Fair fees: schools pay nothing; teachers pay the {{regFee}} registration fee, and {{pct}} only after being placed and paid.",
+              "Privacy: information is kept secure and shared with no one without permission.",
+              "Records: we keep the summary reports we send and the receipts we issue."
+            ],
+            "hi": [
+              "पहले सहमति: शिक्षक की प्रोफ़ाइल केवल उन्हीं स्कूलों को जाती है जिनके लिए शिक्षक ने सहमति दी है।",
+              "ईमानदारी: हम नौकरी का वादा नहीं करते और नकली रिक्तियाँ नहीं डालते।",
+              "उचित शुल्क: स्कूल कुछ नहीं देते; शिक्षक {{regFee}} पंजीकरण शुल्क देते हैं, और {{pct}} केवल प्लेसमेंट और सैलरी मिलने के बाद।",
+              "गोपनीयता: जानकारी सुरक्षित रखी जाती है और अनुमति के बिना किसी को नहीं दी जाती।",
+              "रिकॉर्ड: हम भेजी गई सारांश रिपोर्ट और दी गई रसीदों का रिकॉर्ड रखते हैं।"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h": {
+        "en": "4. Contact",
+        "hi": "4. संपर्क"
+      },
+      "blocks": [
+        {
+          "p": {
+            "en": "{{agency}}, {{address}}. Email: {{email}}. Phone: {{phone}}.",
+            "hi": "{{agency}}, {{address}}। ईमेल: {{email}}। फ़ोन: {{phone}}।"
+          }
+        }
+      ]
+    }
+  ]
+}
